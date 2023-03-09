@@ -37,13 +37,6 @@ html {
   color: #344563 !important;
 }
 
-.fz-16-2 {
-  font-size: 1rem;
-  line-height: 1.5rem;
-  font-weight: 400;
-  color: #344563 !important;
-}
-
 .fz-18 {
   font-size: 1.125rem;
   line-height: 1.25rem;
@@ -76,14 +69,14 @@ html {
   font-size: 2.5rem;
   line-height: 3.25rem;
   font-weight: 700;
-  color: #091e42;   
+  color: #091e42;
 }
 
 .fz-48 {
   font-size: 3rem;
   line-height: 3.75rem;
   font-weight: 700;
-  color: #091e42;   
+  color: #091e42;
 }
 
 .hero {
@@ -146,6 +139,7 @@ html {
 .img {
   margin: 1rem;
 }
+
 .card__title {
   margin: 2rem 0 0 1.5rem;
 }
@@ -170,7 +164,7 @@ html {
 .tech__card__li {
   background-color: #ebebff;
   padding: 0 0.5rem;
-  border-radius: 0.5rem;  
+  border-radius: 0.5rem;
 }
 
 .card__desc {
@@ -257,7 +251,7 @@ html {
   margin: auto;
   height: 7rem !important;
   resize: none;
-  margin-bottom: 2rem
+  margin-bottom: 2rem;
 }
 
 .button__form {
