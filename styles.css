@@ -1,0 +1,271 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  font-size: 16px;
+}
+
+.fz-12 {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 500;
+  color: #6070ff !important;
+}
+
+.fz-15 {
+  font-size: 0.938rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  color: #344563 !important;
+}
+
+.fz-16 {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 500;
+  color: #7f8cff !important;
+}
+
+.fz-16-2 {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+  color: #344563 !important;
+}
+
+.fz-18 {
+  font-size: 1.125rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+  color: #6070ff !important;
+}
+
+.fz-18-2 {
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+  font-weight: 500;
+  color: #344563 !important;
+}
+
+.fz-18-3 {
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+  color: #6b778c !important;
+}
+
+.fz-20 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-weight: 400;
+  color: #344563 !important;
+}
+
+.fz-40 {
+  font-size: 2.5rem;
+  line-height: 3.25rem;
+  font-weight: 700;
+  color: #091e42;
+}
+
+.fz-48 {
+  font-size: 3rem;
+  line-height: 3.75rem;
+  font-weight: 700;
+  color: #091e42;
+}
+
+.hero {
+  background: #f7f7f9;
+  position: absolute;
+}
+
+.header {
+  background: #fff;
+}
+
+.name {
+  padding-left: 5rem;
+}
+
+.container__main {
+  background: #fff;
+  border-bottom-left-radius: 5rem;
+}
+
+.main {
+  background-image: url(images/Header.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-origin: content-box;
+  width: 100%;
+  height: 44rem;
+}
+
+.name__main {
+  padding-top: 10rem;
+  padding-left: 12%;
+}
+
+.intro__main {
+  padding-left: 12%;
+  width: 84%;
+}
+
+.lets__main {
+  padding-left: 12%;
+}
+
+.icons__main {
+  padding-left: 12%;
+  gap: 1rem;
+}
+
+/* Cards section */
+
+.card__section {
+  margin: 7rem 3rem 7rem;
+}
+
+.first__card {
+  min-height: 31rem;
+}
+
+.img {
+  margin: 1rem;
+}
+
+.card__title {
+  margin: 2rem 0 0 1.5rem;
+}
+
+.card__position {
+  margin: 1rem 0 1rem 1.5rem;
+}
+
+.bed {
+  width: 10rem;
+}
+
+.tech__card {
+  width: 35%;
+  margin: 0 0 0 1.5rem;
+}
+
+.tech__card__ruby {
+  width: 50%;
+}
+
+.tech__card__li {
+  background-color: #ebebff;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.card__desc {
+  margin: 0 0 1.5rem 1.5rem;
+}
+
+.see__button {
+  margin: 0 0 5rem 2.5rem;
+}
+
+/* AboutMyself */
+
+.about {
+  margin: 9rem 0 1rem 20%;
+}
+
+.about__p {
+  margin: 0 0 1rem 20%;
+}
+
+.lets__about {
+  margin-left: 20%;
+}
+
+.icons__about {
+  margin-left: 20%;
+  gap: 1rem;
+}
+
+.get__button {
+  margin: 0 0 5rem 20%;
+}
+
+.knowledges {
+  margin: 11rem 7rem 2rem 2rem;
+}
+
+.sleng {
+  margin-bottom: 2rem;
+}
+
+.tech__about {
+  width: 60%;
+}
+
+.tech__about__li {
+  background: #f7f7f9;
+  width: 5.6rem;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.aboutme__skills {
+  /* padding-bottom: 2rem; */
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+/* contact form */
+
+.contact_ask {
+  padding: 8rem auto 0 !important;
+  color: #fff;
+}
+
+.contact_exp {
+  margin: 1rem auto;
+  width: 45%;
+  color: #fff !important;
+}
+
+.input__name {
+  width: 30%;
+  margin: auto;
+}
+
+.input__email {
+  width: 30%;
+  margin: auto;
+}
+
+.input__message {
+  width: 30%;
+  margin: auto;
+  height: 7rem !important;
+  resize: none;
+  margin-bottom: 2rem;
+}
+
+.button__form {
+  text-align: center;
+}
+
+.contact {
+  background-color: #6070ff;
+  background-image: url(images/contact\ form\ background\ shapes.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-origin: content-box;
+  border-top-left-radius: 8rem;
+  width: 100%;
+  height: 44rem;
+}
