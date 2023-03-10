@@ -185,7 +185,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 
-If you like this project feel free to make any comment, all contributions are welcome!.
+If you like this project feel free to make any comment,  and leave us start to support us all contributions are welcome!.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
