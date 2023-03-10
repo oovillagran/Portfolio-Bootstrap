@@ -142,8 +142,15 @@ To run tests, execute the following command:
 - LinkedIn: [Oscar Villagran](https://www.linkedin.com/in/oovillagran/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+👤 **Hafed Efheij**
 
+
+- GitHub: [@hafedefeheij ](https://github.com/hafedefeheij)
+- LinkedIn: [ hafedefeheij ](https://www.linkedin.com/in/hafedefeheij /)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
